@@ -13,7 +13,7 @@ import requests
 
 # =========================== CONFIGURATION ===========================
 # 🔑 Replace with your bot token from @BotFather
-BOT_TOKEN = ""   # <-- PUT YOUR TOKEN HERE
+BOT_TOKEN = "8967548495:AAGt5iQEjHhidU8uBroFGJ_dT9J7r6L2Bws"   # <-- PUT YOUR TOKEN HERE
 
 # 🌐 External API endpoint (leave blank if not needed)
 EXTERNAL_API_URL = ""  # <-- PUT YOUR API URL HERE
