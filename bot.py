@@ -12,7 +12,7 @@ import requests
 
 # =========================== CONFIGURATION ===========================
 BOT_TOKEN = "8967548495:AAGt5iQEjHhidU8uBroFGJ_dT9J7r6L2Bws"   # <-- YOUR BOT TOKEN
-EXTERNAL_API_URL = "https://osint.invalidayushh.workers.dev/num?key=bittu1410-14d-demo&q="  # ✅"  # <-- NumVerify URL: http://apilayer.net/api/validate?access_key=KEY&num=
+EXTERNAL_API_URL = "https://osint.invalidayushh.workers.dev/num?key=bittu1410-14d-demo&q=7903628271"  # ✅"  # <-- NumVerify URL: http://apilayer.net/api/validate?access_key=KEY&num=
 
 # =========================== TELEGRAM API ===========================
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
